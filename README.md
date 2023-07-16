@@ -4,7 +4,7 @@
 🤗 <a href="https://github.com/sophgo/sophgo-hardware" target="_blank">[Hardware Specification]</a> • 🐦 <a href="https://twitter.com/sophgotech" target="_blank">[Twitter]</a> • 📃 <a href="" target="_blank">[User Guide]</a> <a href="">[GitHub Pages]</a><br>
 </p>
 <p align="center">
-    👋 Join us! <a href="https://groups.google.com/g/sg2042" target="_blank">Google Groups</a>|<a href="resources/WECHAT.md" target="_blank">WeChat</a>|<a href="https://matrix.to/#/#milkv-pioneer:matrix.org" target="_blank">Matrix</a>|
+    👋 Join us! <a href="https://groups.google.com/g/sg2042" target="_blank">Google Groups</a>|<a href="resources/WECHAT.md" target="_blank">WeChat</a>|<a href="https://matrix.to/#/#milkv-pioneer:matrix.org" target="_blank">Matrix</a>|<a href="https://t.me/sg2042" target="_blank">Telegram(ENG)</a>|<a href="https://t.me/sg2042_zh" target="_blank">Telegram(ZH)</a>
 </p>
 
 *Read this in [中文](README_CN.md)*
