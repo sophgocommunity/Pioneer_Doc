@@ -25,29 +25,22 @@ For More Information, [Milk-v Pioneer](https://www.crowdsupply.com/milkv/milk-v-
 -----
 
 ## Support & Documentation
- • [Official Website and Community](Missing)
+- [Official Website and Community](Missing)
  
- • [Getting-started Guide](Missing)
+- [Getting-started Guide](Missing)
  
- • [Hardware schematics and 2D mainboard design files (.dxf)](https://github.com/sophgo/sophgo-hardware)
+- [Hardware schematics and 2D mainboard design files (.dxf)](https://github.com/sophgo/sophgo-hardware)
 
 **We have also provide hardware and software guidance:**
 
- • [Linux kernel source code](https://github.com/sophgo/linux-riscv)
- 
- • [CPU user manual](https://github.com/milkv-pioneer/hardware/blob/main/SG2042-TRM.pdf)
- 
- • [Bootloader source code](https://github.com/sophgo/bootloader-riscv)
- 
- • [OpenSBI source code](https://github.com/sophgo/opensbi)
- 
- • [Zsbl source code](https://github.com/sophgo/zsbl)
- 
- • [DDR Supported list](https://github.com/milkv-pioneer/hardware/blob/main/pioneer_ddr_list.pdf)
- 
- • [PCIe Supported List](https://github.com/milkv-pioneer/hardware/blob/main/pioneer_pcie_list.pdf)
-
- • [Recommended memory stick datasheet](https://github.com/milkv-pioneer/hardware/blob/main/Longsys_DDR4_RDIMM_32GB_2RX8_Specfication_RER432A032G7-WFS100_V1.1.pdf)
+- [Linux kernel source code](https://github.com/sophgo/linux-riscv)
+- [Bootloader source code](https://github.com/sophgo/bootloader-riscv)
+- [OpenSBI source code](https://github.com/sophgo/opensbi)
+- [zsbl source code](https://github.com/sophgo/zsbl)
+- [CPU user manual](https://github.com/milkv-pioneer/hardware/blob/main/SG2042-TRM.pdf)
+- [DDR Supported list](https://github.com/milkv-pioneer/hardware/blob/main/pioneer_ddr_list.pdf)
+- [PCIe Supported List](https://github.com/milkv-pioneer/hardware/blob/main/pioneer_pcie_list.pdf)
+- [Recommended memory stick datasheet](https://github.com/milkv-pioneer/hardware/blob/main/Longsys_DDR4_RDIMM_32GB_2RX8_Specfication_RER432A032G7-WFS100_V1.1.pdf)
 
 -----
 
