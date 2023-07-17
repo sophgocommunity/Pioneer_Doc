@@ -29,22 +29,36 @@ For More Information, [Milk-v Pioneer](https://www.crowdsupply.com/milkv/milk-v-
  
  • [Getting-started Guide](Missing)
  
- • [Hardware schematics and 2D mainboard design files (.dxf) are available in our GitHub repository](https://github.com/sophgo/sophgo-hardware)
+ • [Hardware schematics and 2D mainboard design files (.dxf)](https://github.com/sophgo/sophgo-hardware)
 
 **We have also provide hardware and software guidance:**
 
- •[Linux kernel source code](https://github.com/sophgo/linux-riscv)
+ • [Linux kernel source code](https://github.com/sophgo/linux-riscv)
  
- •[CPU user manual](https://github.com/milkv-pioneer/hardware/blob/main/SG2042-TRM.pdf)
+ • [CPU user manual](https://github.com/milkv-pioneer/hardware/blob/main/SG2042-TRM.pdf)
  
- •[Bootloader source code](https://github.com/sophgo/bootloader-riscv)
+ • [Bootloader source code](https://github.com/sophgo/bootloader-riscv)
  
- •[OpenSBI source code](https://github.com/sophgo/opensbi)
+ • [OpenSBI source code](https://github.com/sophgo/opensbi)
  
- •[Zsbl source code](https://github.com/sophgo/zsbl)
+ • [Zsbl source code](https://github.com/sophgo/zsbl)
  
- •[DDR Supported list](https://github.com/milkv-pioneer/hardware/blob/main/pioneer_ddr_list.pdf)
+ • [DDR Supported list](https://github.com/milkv-pioneer/hardware/blob/main/pioneer_ddr_list.pdf)
  
- •[PCIe Supported List](https://github.com/milkv-pioneer/hardware/blob/main/pioneer_pcie_list.pdf)
+ • [PCIe Supported List](https://github.com/milkv-pioneer/hardware/blob/main/pioneer_pcie_list.pdf)
 
- •[Recommended memory stick datasheet](https://github.com/milkv-pioneer/hardware/blob/main/Longsys_DDR4_RDIMM_32GB_2RX8_Specfication_RER432A032G7-WFS100_V1.1.pdf)
+ • [Recommended memory stick datasheet](https://github.com/milkv-pioneer/hardware/blob/main/Longsys_DDR4_RDIMM_32GB_2RX8_Specfication_RER432A032G7-WFS100_V1.1.pdf)
+
+-----
+
+## Supports Various Linux Distros
+<div align="center">
+<img src=./resources/support_linux_distros.png
+ width="60%"/>
+</div>
+
+To download the latest version of Fedora and Ubuntu for Pioneer, please check this link: [Download](http://219.142.246.77:65000/sharing/f73TDqXdN)
+
+
+## Bi-weekly Report and Progress
+Missing
