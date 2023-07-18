@@ -56,4 +56,6 @@ To download the latest version of Fedora and Ubuntu for Pioneer, please check th
 Missing
 
 
-## Story About Our Partners
+## Story About Our External developers and Partners
+
+- [Lightweight LLM model inference framework(InferLLM) supports SG2042, with riscv-vector 0.7, 64 threads](https://github.com/MegEngine/InferLLM/tree/main)
