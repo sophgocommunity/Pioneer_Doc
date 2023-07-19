@@ -11,3 +11,5 @@ times faster than EPI LLVM (9cfcff6873), 100 times faster than LLVM 16 and 69 ti
 <img src= ./zcc_demo.png
  width="60%"/>
 </div>
+
+If you wish to have a try of zcc toolchain, please send mail to **aries.wu@terapines.com**
