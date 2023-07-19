@@ -8,6 +8,6 @@ times faster than EPI LLVM (9cfcff6873), 100 times faster than LLVM 16 and 69 ti
 
 
 <div align="center">
-<img src= ./Partner/zcc_demo.png
+<img src= ./zcc_demo.png
  width="60%"/>
 </div>
