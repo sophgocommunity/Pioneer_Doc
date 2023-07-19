@@ -59,3 +59,4 @@ Missing
 ## Story About Our External developers and Partners
 
 - [Lightweight LLM model inference framework(InferLLM) supports SG2042, with riscv-vector 0.7, 64 threads](https://github.com/MegEngine/InferLLM/tree/main)
+- [ZCC toolchain from Terapines has fully supported SG2042 RISC-V chip](./Partner)
